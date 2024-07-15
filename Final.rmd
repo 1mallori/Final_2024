@@ -305,11 +305,16 @@ fisher.test(table4)
 
 
 The p-value in the Chi-square Test is 0.0000000001414 which is too small, therefore the vaccine is not able to prevent Covid-19 among drug users. In the Fisher's Exact Test the p-value is 0.000000000003261 meaning there is a small difference in getting Covid-19 and being a drug user. We fail to reject the null hypothesis because drug users are able to get Covid-19 with or without the vaccine.
+
+
+
+
 # Overall Results and Conclusions
 
 
 
 In the original question we asked if the vaccine was able to prevent Covid-19 among these subgroups: males, females, LGBTQ and drug users. 
+
 ### Males
 
 
@@ -352,19 +357,10 @@ Results: The Chi-squared and Fisher's Exact tests resulted in extremely low p-va
 ### Conclusion
 
 
-Based on the results across all subgroups (males, females, LGBTQ, and drug users), the data strongly suggests that the Covid-19 vaccine (Covid921) tested in these clinical trials did not effectively prevent Covid-19 compared to the placebo. Therefore, it is recommended that individuals within these subgroups consider other preventive measures or vaccines if available, given the ineffectiveness observed in this study.
+Based on comprehensive analysis across diverse demographic subgroups (including males, females, LGBTQ individuals, and drug users), the findings strongly indicate that the Covid-19 vaccine (Covid921) tested in clinical trials did not effectively prevent Covid-19 when compared to a placebo. As a result, it is advised that individuals within these subgroups consider alternative preventive measures or seek other vaccines where available, due to the observed ineffectiveness in this study.
 
-We have found that the vaccine is ineffective at preventing Covid-19 in those subgroups.
-This structured approach using hypothesis testing, descriptive statistics, and graphical representation provides a clear assessment of the vaccine's effectiveness across diverse population subgroups, supporting informed decision-making and further research directions.
+The evaluation employed a systematic approach encompassing hypothesis testing, descriptive statistics, and graphical representation to rigorously assess the vaccine's efficacy across various population segments. This methodological framework supports informed decision-making and highlights avenues for future research.
 
-In the original question we asked if the vaccine was able to prevent Covid-19 among these subgroups: males, females, LGBTQ and drug users. We have found that the vaccine is ineffective at preventing Covid-19 in those subgroups, therefore we fail to reject the null hypothesis. 
+Specifically, our investigation into whether the Covid-19 vaccine prevented infection among males concluded that it was ineffective in this subgroup, aligning with the null hypothesis. Similarly, our analysis of females, LGBTQ individuals, and drug users yielded comparable results, further reinforcing the vaccine's lack of efficacy in preventing Covid-19 within these respective groups.
 
-We asked if the vaccine was effective in preventing Covid-19 
-
-We inquired as to whether the vaccine was successful in preventing Covid-19 inside the male subgroup. Our results finally led us to conclude that the vaccine is ineffective in preventing Covid-19 among males.For this subgroup, we fail to reject the null hypothesis. 
-
-Since the vaccine was unable to prevent Covid-19 in the subgroup of females when the identical question was posed, we fail to reject the null hypothesis. 
-
-The LGBTQ community was also included in the question, and our data indicates that the vaccine did not successfully prevent Covid-19, thus we fail to reject the null hypothesis. 
-
-The same questions were asked of the drug users as well, and our data indicates that the vaccination did not prevent Covid-19, therefore we fail to reject the null hypothesis.
+In summary, based on the detailed examination across different demographic cohorts, it is evident that the Covid-19 vaccine (Covid921) did not demonstrate significant efficacy in preventing Covid-19 infections compared to placebo, prompting the need for alternative preventive strategies to be considered.
