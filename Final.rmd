@@ -145,7 +145,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-Chi square test being 0.00000001914 and Fisher’s Exact Test being 0.00000001246 also confirms the statistical significance of the difference in infection rates between the vaccine and placebo groups. The odds ratio of 1.8562 means that the odds of getting COVID-19 with the placebo are approximately 1.86 times higher than with the vaccine. The 95% confidence interval suggests that the true odds ratio is between 1.49 and 2.32, reinforcing the effectiveness of the vaccine.
+The chi-square test result of 0.00000001914 and Fisher’s Exact Test result of 0.00000001246 both confirm the statistical significance of the difference in infection rates between the vaccine and placebo groups. The odds ratio of 1.8562 indicates that the likelihood of contracting COVID-19 with the placebo is about 1.86 times higher than with the vaccine. The 95% confidence interval, ranging from 1.49 to 2.32, further supports the effectiveness of the vaccine.
 
 
 
