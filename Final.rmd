@@ -216,7 +216,7 @@ fisher.test(table3)
 
 
 
-The Chi-squared p-value is 0.000002266, which is too small. Therefore the vaccine is not preventable against Covid-19 among the LGBTQ. In the Fisher's Exact Test the p-value is 0.0000007269The odds of getting COVID-19 with the vaccine are approximately 0.24 times the odds of getting COVID-19 with the placebo. This means that the vaccine significantly reduces the odds of contracting COVID-19 compared to the placebo. We fail to reject the null hypothesis because people in the LGBTQ community can still get Covid-19 with the vaccine or the placebo.
+The Chi-squared test yields a p-value of 0.000002266, which is very low. This indicates that the vaccine does significantly reduce the risk of contracting COVID-19 among the LGBTQ community. Additionally, the Fisher's Exact Test provides a p-value of 0.0000007269. The odds of getting COVID-19 with the vaccine are approximately 0.24 times the odds of getting it with the placebo, suggesting that the vaccine considerably lowers the risk compared to the placebo. However, we do not reject the null hypothesis, as individuals in the LGBTQ community can still contract COVID-19 regardless of whether they receive the vaccine or the placebo.
 
 
 
