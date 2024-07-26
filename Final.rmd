@@ -133,7 +133,7 @@ colPerc(table1)
 
 
 
-The numerical results shows the data indicates that the COVID-19 vaccine is effective in reducing the likelihood of contracting COVID-19 compared to the placebo. Specifically, the odds of getting COVID-19 are reduced by approximately 46.9% for those receiving the vaccine compared to those receiving the placebo. The relative risk reduction is about 45.5%, meaning that the vaccine lowers the risk of infection by roughly 45.5% compared to the placebo.
+The numerical results reveal that the COVID-19 vaccine significantly decreases the likelihood of contracting the virus compared to the placebo. Specifically, those who receive the vaccine have approximately 46.9% lower odds of getting COVID-19 compared to those who receive the placebo. The relative risk reduction is about 45.5%, indicating that the vaccine reduces the risk of infection by roughly 45.5% relative to the placebo.
 
 
 
