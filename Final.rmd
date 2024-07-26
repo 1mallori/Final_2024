@@ -267,7 +267,8 @@ rowPerc(table4)
 colPerc(table4)
 ```
 
-In this data it shows that there was a 3.28% difference in those who got Covid-19. There was 3.61% of people who received the vaccine and 0.33% of people who got the placebo. For the people who were OK, there was only about a 2.61% difference. Although, This analysis shows an unusual result where the vaccine appears to increase the risk of infection compared to the placebo, which is contrary to expectations. This could suggest either an anomaly in the data or a specific context of the study that should be reviewed. In a typical scenario, a vaccine should reduce the risk of COVID-19, not increase it.
+The data reveals a 3.28% difference in COVID-19 infection rates between the groups. Specifically, 3.61% of those who received the vaccine contracted COVID-19, compared to 0.33% of those who received the placebo. Among those who remained healthy, there was a difference of only about 2.61%. However, this analysis presents an unusual finding: the vaccine seems to increase the risk of infection compared to the placebo, contrary to expectations. This result could indicate an anomaly in the data or a specific aspect of the study that warrants further investigation. Typically, one would expect a vaccine to reduce, rather than increase, the risk of COVID-19.
+
 
 
 
