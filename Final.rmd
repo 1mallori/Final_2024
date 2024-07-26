@@ -284,4 +284,4 @@ fisher.test(table4)
 
 
 
-The p-value in the Chi-square Test is 0.0000000001414 which is too small, therefore the vaccine is not able to prevent Covid-19 among drug users. In the Fisher's Exact Test the p-value is 0.000000000003261 meaning there is a small difference in getting Covid-19 and being a drug user. We fail to reject the null hypothesis because drug users are able to get Covid-19 with or without the vaccine.
+The p-value from the Chi-square Test is 0.0000000001414, which is extremely low, suggesting that the vaccine does not effectively prevent COVID-19 among drug users. Similarly, the Fisher's Exact Test yields a p-value of 0.000000000003261, indicating a minor difference in COVID-19 rates among drug users. We do not reject the null hypothesis because drug users can still contract COVID-19 regardless of whether they receive the vaccine or not.
